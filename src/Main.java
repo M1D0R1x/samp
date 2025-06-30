@@ -11,5 +11,17 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("i = " + i);
+            System.out.println("alpha nexus");
+            System.out.println("beta traid");
+            System.out.println("gamma tranmusion");
+            System.out.println("eta beyonder");
+            System.out.println("delta oblivion");
+            System.out.println("zeta zynoclos");
+            System.out.println("Epsilon appware");
+            System.out.println("alpha nexus is hiding");
+        }
     }
 }
